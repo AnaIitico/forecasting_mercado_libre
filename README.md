@@ -39,6 +39,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+* There's and issue with rendering on GitHub - use the link below to see the project
+* http://nbviewer.org/github/AnaIitico/forecasting_mercado_libre/blob/main/forecasting_net_prophet.ipynb
+
 This is an application that can be used to analyze company's financial and user data in clever ways to identify areas to improve and help the company grow. So, you want to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
 
 ### Built With
