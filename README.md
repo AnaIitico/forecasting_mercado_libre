@@ -39,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is an application that uses unsupervised machine learning to cluster crypto currencies with K-means using PCA Data, then visualize and compare the results.
+This is an application that can be used to analyze company's financial and user data in clever ways to identify areas to improve and help the company grow. So, you want to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
 
 ### Built With
 
